@@ -1,0 +1,30 @@
+{
+  "name": "cli",
+  "version": "1.0.0",
+  "description": "\"my first npm package\"",
+  "main": "index.js",
+  "bin": {
+    "Yeepiii": "./index.js"
+  },
+  "scripts": {
+    "test": "\"\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samantha-35/CLI.git"
+  },
+  "keywords": [
+    "becode"
+  ],
+  "author": "Samantha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samantha-35/CLI/issues"
+  },
+  "homepage": "https://github.com/Samantha-35/CLI#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "country-list": "^2.2.0"
+  }
+}
+
