@@ -1,6 +1,6 @@
 {
-  "name": "hollidates",
-  "version": "1.0.0",
+  "name": "@umg_86/hollidates",
+  "version": "1.0.5",
   "description": "\"my first npm package\"",
   "main": "index.js",
   "bin": {
@@ -24,7 +24,7 @@
   "homepage": "https://github.com/Samantha-35/CLI#readme",
   "dependencies": {
     "axios": "^0.21.1",
-    "country-list": "^2.2.0"
+    "country-list": "^2.2.0",
+    "readme-md-generator": "^1.0.0"
   }
 }
-
