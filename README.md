@@ -18,7 +18,7 @@
 
 > &#34;My first npm package&#34;
 
-### 🏠 [Homepage](https://github.com/Samantha-35/CLI#readme)
+### 🏠 [Homepage repositories](https://github.com/Samantha-35?tab=repositories)
 
 ### What is the point of this card?
 The card will show you all the holidays from, almost, any country. I to realise this, I used the [nager](https://date.nager.at/) API.
@@ -65,3 +65,4 @@ This project is [ISC](https://github.com/Samantha-35/CLI/blob/master/LICENSE) li
 
 
 
+https://github.com/Samantha-35?tab=repositories
