@@ -11,12 +11,9 @@
   <a href="https://github.com/Samantha-35/CLI/graphs/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
-  <a href="https://github.com/Samantha-35/CLI/blob/master/LICENSE" target="_blank">
-    <img alt="License: ISC" src="https://img.shields.io/github/license/Samantha-35/@umg_86/hollidates" />
-  </a>
 </p>
 
-> &#34;My first npm package&#34;
+<!-- > &#34;My first npm package&#34; -->
 
 ### 🏠 [Homepage repositories](https://github.com/Samantha-35?tab=repositories)
 
