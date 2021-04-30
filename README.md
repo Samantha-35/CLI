@@ -48,7 +48,9 @@ $  npx @umg_86/hollidates 2008 Belgium
 * get familiar with axios
 - get familiar with nager API
 - get familiar with figlet
-
+- 
+### My project's link :
+https://samantha-35.github.io/CLI/
 
 ## Show your support
 
@@ -62,4 +64,3 @@ This project is [ISC](https://github.com/Samantha-35/CLI/blob/master/LICENSE) li
 
 
 
-https://github.com/Samantha-35?tab=repositories

@@ -1,6 +1,6 @@
 {
   "name": "@umg_86/hollidates",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "\"my first npm package\"",
   "main": "index.js",
   "bin": {
